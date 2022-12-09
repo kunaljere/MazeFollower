@@ -1,4 +1,4 @@
-# MazeFollower
+# NavigateMaze
 
 
 ![](https://github.com/kunaljere/MazeFollower/blob/main/Maze_Demo.gif)
