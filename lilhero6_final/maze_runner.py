@@ -30,10 +30,7 @@ class mazeRunner(Node):
         self.head_dist_thresh = 0.5
 
         self.linear_speed = 0.21
-        self.angular_speed = 0.5
-
-        self.fov = 62.2
-        self.total_xframe = 320     
+        self.angular_speed = 0.5 
 
         self.turn_reached = False 
 
