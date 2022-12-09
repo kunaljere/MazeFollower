@@ -6,7 +6,7 @@
 
 ROS 2 program that navigates a TurtleBot3 Burger through a maze by following directional signs until it reaches the goal (designated by the red target sign) in the shortest path possible. 
 
-Nine different signs will be present in the maze, organized into four categories: wrong way (stop and do-no-enter signs) indicating the rob ot should turn around, goal, turn 90 degrees to the left (three left arrow signs), and turn 90 degrees to the right (three right arrow signs). The signs are colored and taped to the walls of the rob ot space.
+Nine different signs will be present in the maze, organized into four categories: wrong way (stop and do-no-enter signs) indicating the rob ot should turn around, goal, turn 90 degrees to the left (three left arrow signs), and turn 90 degrees to the right (three right arrow signs). The signs are colored and taped to the walls of the robot space.
 
 labels - 0: empty wall, 1: left, 2: right, 3: do not enter, 4: stop, 5: goal.
 
