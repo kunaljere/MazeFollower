@@ -1,7 +1,7 @@
 # MazeFollower
 
 
-![](https://github.com/kunaljere/MazeFollower/blob/main/Maze_Demo.mp4)
+![](https://github.com/kunaljere/MazeFollower/blob/main/Maze_Demo.gif)
 
 
 ROS 2 program that navigates a TurtleBot3 Burger through a maze by following directional signs until it reaches the goal (designated by the red target sign) in the shortest path possible. 
